@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5c6bc0"
+    android:weightSum="30"
+    android:layout_margin="0dp"
+    >
+
+
+    <FrameLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="#5c6bc0"
+            android:layout_weight="24">
+    </FrameLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:orientation="horizontal"
+        android:weightSum="6">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:id="@+id/back_button"
+            android:src="@drawable/back"
+            />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:weightSum="4">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:id="@+id/plate_image"
+                android:background="@drawable/image_border"
+                android:src="@drawable/plate"/>
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:id="@+id/node_image"
+                android:layout_height="wrap_content"
+                android:src="@drawable/nodes"/>
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:id="@+id/time_image"
+                android:layout_height="wrap_content"
+                android:src="@drawable/time"/>
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:id="@+id/ticket_image"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ticket"
+                />
+
+        </LinearLayout>
+
+
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/next_button"
+            android:src="@drawable/next"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

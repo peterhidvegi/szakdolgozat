@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.spec.javax.security.jacc:jboss-jacc-api_1.4_spec:1.0.2.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.jacc/jboss-jacc-api_1.4_spec/1.0.2.Final/9a6e12ee46b076400daf66997260ea0ce4e8a872/jboss-jacc-api_1.4_spec-1.0.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.jacc/jboss-jacc-api_1.4_spec/1.0.2.Final/918339e97c272f5b425fc1e882bd833d9965c7d/jboss-jacc-api_1.4_spec-1.0.2.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

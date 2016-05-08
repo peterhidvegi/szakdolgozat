@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.spec.javax.resource:jboss-connector-api_1.6_spec:1.0.1.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.resource/jboss-connector-api_1.6_spec/1.0.1.Final/431c55aa6886efa94231670a5b625e04ecf9d798/jboss-connector-api_1.6_spec-1.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.resource/jboss-connector-api_1.6_spec/1.0.1.Final/370f539bc5aaf9d190866511324321caaeb77b08/jboss-connector-api_1.6_spec-1.0.1.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

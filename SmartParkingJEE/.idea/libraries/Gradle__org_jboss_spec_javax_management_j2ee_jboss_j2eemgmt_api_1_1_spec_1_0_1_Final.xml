@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.spec.javax.management.j2ee:jboss-j2eemgmt-api_1.1_spec:1.0.1.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.management.j2ee/jboss-j2eemgmt-api_1.1_spec/1.0.1.Final/35c0f112888c3ed8e6f07847d0dacb53d38f9ad1/jboss-j2eemgmt-api_1.1_spec-1.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.management.j2ee/jboss-j2eemgmt-api_1.1_spec/1.0.1.Final/6265343db148d2513d0b743b28c00c1daec1209d/jboss-j2eemgmt-api_1.1_spec-1.0.1.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

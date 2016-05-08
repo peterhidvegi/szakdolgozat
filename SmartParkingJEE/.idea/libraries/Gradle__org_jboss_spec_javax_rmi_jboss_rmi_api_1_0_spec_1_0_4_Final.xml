@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.spec.javax.rmi:jboss-rmi-api_1.0_spec:1.0.4.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.rmi/jboss-rmi-api_1.0_spec/1.0.4.Final/f7dc3adaae5eee613f2e5e1a2f9978d96cf5c22f/jboss-rmi-api_1.0_spec-1.0.4.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.rmi/jboss-rmi-api_1.0_spec/1.0.4.Final/6e1ad509e0e8d59eb583208424ef53c5e3f8d2b9/jboss-rmi-api_1.0_spec-1.0.4.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

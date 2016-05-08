@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SmartParkingJEE.iml" filepath="$PROJECT_DIR$/SmartParkingJEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sch-ejbservice/sch-ejbservice.iml" filepath="$PROJECT_DIR$/sch-ejbservice/sch-ejbservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sch-persistence/sch-persistence.iml" filepath="$PROJECT_DIR$/sch-persistence/sch-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sch-webservice/sch-webservice.iml" filepath="$PROJECT_DIR$/sch-webservice/sch-webservice.iml" />
+    </modules>
+  </component>
+</project>
